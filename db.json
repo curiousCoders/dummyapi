@@ -3,14 +3,70 @@
     {
       "id": 1,
       "title": "Fund raiser at Monty fire station",
-      "shortDesc":"Fund raiser to support Monty Firestation. There live music and verious fun activities",
+      "shortDesc":"Fund raiser to support Monty Firestation. There live music and verious fun activities. For more visit http://example.com/firestation",
       "venueid":1,
       "date":"01/29/2023",
-      "cost": "free" 
+      "cost": "free"
     },
      {
       "id": 2,
-      "title": "pumpkin picking "
+      "title": "Fund raiser at Monty library",
+      "shortDesc":"Fund raiser to support Monty Firestation. There live music and verious fun activities",
+      "venueid":2,
+      "date":"01/29/2023",
+      "cost": "free" 
+    }
+  ],
+  "venues":[
+    {
+      "id":1,
+      "name":"Monty Fire Station",
+      "address1": "200 very big rd",
+      "address2":"",
+      "city":"Belle Mead"
+      "state":"NJ",
+      "zip":08502,
+      "phone1":"743-000-0000"
+      "email":"ems@example.com",
+      "website":"https://example.com/montyEMS"
+    },
+     {
+      "id":2,
+      "name":"Township Library",
+      "address1": "100 Study Rd",
+      "address2":"",
+      "city":"Belle Mead"
+      "state":"NJ",
+      "zip":08502,
+      "phone1":"732-000-0000"
+      "email":"library@example.com",
+      "website":"https://example.com/lib"
+    }
+  ],
+   "activities":[
+    {
+      "id":1,
+      "name":"Bollywood Dance",
+      "address1": "200 Bolloywood Blvd",
+      "address2":"",
+      "city":"Belle Mead"
+      "state":"NJ",
+      "zip":08502,
+      "phone1":"743-000-0000"
+      "email":"ems@example.com",
+      "website":"https://example.com/montyEMS"
+    },
+     {
+      "id":2,
+      "name":"Tennis",
+      "address1": "100 sports Rd",
+      "address2":"",
+      "city":"Belle Mead"
+      "state":"NJ",
+      "zip":08502,
+      "phone1":"732-000-0000"
+      "email":"library@example.com",
+      "website":"https://example.com/lib"
     }
   ],
   "profile": {

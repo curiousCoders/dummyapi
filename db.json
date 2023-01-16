@@ -80,13 +80,27 @@
        "id":2,
       "uid":"jpeter"
       "name":"Peter",
-      "type":1
+      "type":2
     },
      {
        "id":3,
       "uid":"admin1"
       "name":"adminuser",
-      "type":2
+      "type":3
+    }
+  ],
+  "usertype":[
+    {
+      "id":1,
+      "name":"user" 
+    },
+     {
+      "id":2,
+      "name":"moderator"
+    },
+     {
+       "id":3,
+      "name":"admin"
     }
   ],
   "profile": {

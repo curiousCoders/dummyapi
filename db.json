@@ -69,6 +69,26 @@
       "website":"https://example.com/lib"
     }
   ],
+   "users":[
+    {
+      "id":1,
+      "uid":"sjohn"
+      "name":"John",
+      "type":1
+    },
+     {
+       "id":2,
+      "uid":"jpeter"
+      "name":"Peter",
+      "type":1
+    },
+     {
+       "id":3,
+      "uid":"admin1"
+      "name":"adminuser",
+      "type":2
+    }
+  ],
   "profile": {
     "name": "typicode"
   }

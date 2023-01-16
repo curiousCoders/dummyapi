@@ -72,19 +72,19 @@
    "users":[
     {
       "id":1,
-      "uid":"sjohn"
+      "uid":"sjohn",
       "name":"John",
       "type":1
     },
      {
        "id":2,
-      "uid":"jpeter"
+      "uid":"jpeter",
       "name":"Peter",
       "type":2
     },
      {
        "id":3,
-      "uid":"admin1"
+      "uid":"admin1",
       "name":"adminuser",
       "type":3
     }

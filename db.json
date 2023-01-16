@@ -1,10 +1,15 @@
 {
-  "posts": [
+  "events": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "event1"
+    },
+    {
+      "id": 2,
+      "title": "event2"
     }
   ],
+  "message": "Successfully! All records has been fetched."
   "profile": {
     "name": "typicode"
   }

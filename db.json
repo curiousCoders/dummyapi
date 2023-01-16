@@ -1,12 +1,8 @@
 {
-  "events": [
+  "posts": [
     {
       "id": 1,
-      "title": "event1"
-    },
-    {
-      "id": 2,
-      "title": "event2"
+      "title": "hello"
     }
   ],
   "profile": {

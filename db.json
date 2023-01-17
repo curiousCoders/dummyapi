@@ -5,16 +5,22 @@
       "title": "Fund raiser at Monty fire station",
       "shortDesc":"Fund raiser to support Monty Firestation. There live music and verious fun activities. For more visit http://example.com/firestation",
       "venueid":1,
-      "date":"01/29/2023",
-      "cost": "free"
+      "startDate":"01/29/2023",
+      "endDate":"01/29/2023",
+      "publishStartDate":"01/29/2023",
+      "publishendDate":"01/29/2023",
+      "cost": "0"
     },
      {
       "id": 2,
       "title": "Fund raiser at Monty library",
       "shortDesc":"Fund raiser to support Monty Firestation. There live music and verious fun activities",
       "venueid":2,
-      "date":"01/29/2023",
-      "cost": "free" 
+      "startDate":"01/29/2023",
+      "endDate":"01/29/2023",
+      "publishStartDate":"01/29/2023",
+      "publishendDate":"01/29/2023",
+      "cost": "$1 per person"
     }
   ],
   "venues":[
